@@ -1,5 +1,5 @@
-# I strongly dislike this
+# files
 
-> kys twemoji 🙏🙏
+> idk
 
 jk but i kinda (hope so) fixed twemoji parsing
